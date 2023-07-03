@@ -18,7 +18,7 @@ public class Main {
         System.out.println("1. Suma");
         System.out.println("2. Resta");
         System.out.println("3. Multiplicación");
-        System.out.println("4. Divisióm");
+        System.out.println("4. División");
         System.out.println("5. Potencia");
         System.out.println("6. Salir de la calculadora");
 
